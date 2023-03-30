@@ -1,0 +1,10 @@
+{
+  "hosts": [
+    { "id": 1, "name": "GetSetBet" },
+    { "id": 2, "name": "PicnicBet" }
+  ],
+  "users": [
+    { "userId": "nabin", "token": "123123123" },
+    { "userId": "nabin2", "token": "123123123" }
+  ]
+}
